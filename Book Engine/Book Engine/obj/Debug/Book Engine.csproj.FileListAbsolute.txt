@@ -1,0 +1,16 @@
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Book Engine.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Book Engine.pdb
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.DevIl.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.OpenGl.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.DevIl.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.OpenGl.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\obj\Debug\Book Engine.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\obj\Debug\Book Engine.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\obj\Debug\Book Engine.pdb
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.OpenAl.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.OpenAl.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.Sdl.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\bin\Debug\Tao.Sdl.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\Book Engine\Book Engine\obj\Debug\Book Engine.csproj.CoreCompileInputs.cache
