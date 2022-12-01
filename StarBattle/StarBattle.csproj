@@ -59,7 +59,7 @@
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -174,7 +174,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Book Engine\Book Engine\Book Engine.csproj">
+    <ProjectReference Include="..\Book Engine\Book Engine\Book Engine.csproj">
       <Project>{44623eed-dc82-4ebf-9389-0cc83821b243}</Project>
       <Name>Book Engine</Name>
     </ProjectReference>

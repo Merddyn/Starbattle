@@ -284,9 +284,9 @@ namespace StarBattle
 
             if (_input.Keyboard.IsKeyPressed(Keys.A))
             {
-                Console.WriteLine("Arc: " + ArcMath.GetArc(_AllShips[i], _AllShips[k]) + ", Shield: " + ArcMath.GetShield(_AllShips[i], _AllShips[k]));
+                System.Diagnostics.Debug.WriteLine("Arc: " + ArcMath.GetArc(_AllShips[i], _AllShips[k]) + ", Shield: " + ArcMath.GetShield(_AllShips[i], _AllShips[k]));
                 ArcMath.GetShield(_AllShips[i], _AllShips[k]);
-                // ArcMath.TestCode(_AllShips[i], _AllShips[k]);   
+                ArcMath.TestCode(_AllShips[i], _AllShips[k]);   
             }
 
             //Require half a second between moves.

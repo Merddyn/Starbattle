@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Book_Engine;
-using Tao.OpenGl;
+//using Tao.OpenGl;
 using System.Drawing;
 
 namespace StarBattle

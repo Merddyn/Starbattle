@@ -29,7 +29,7 @@ namespace Book_Engine.Input
             {
                 Controller2 = new XboxController(1);
             }
-
+            
         }
         public void Update(double elapsedTime)
         {
